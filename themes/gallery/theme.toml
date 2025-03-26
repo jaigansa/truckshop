@@ -1,0 +1,12 @@
+name = "Gallery"
+license = "MIT"
+licenselink = "https://github.com/jaigansa"
+description = "custom theme"
+homepage = "https://github.com/jaigansa"
+demosite = "https://jaigansa.github.io/tamilnux/"
+tags = ["gallery", "responsive", "minimal", "dark"]
+min_version = "0.123.0"
+
+[author]
+  name = "jaiganesh"
+  homepage = "https://jaigansa.github.io"
