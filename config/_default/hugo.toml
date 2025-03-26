@@ -14,18 +14,13 @@ theme = 'gallery'
   description = "Our Works Showcase and Details"
   title = "TruckShop"
   [params.author]
-    email = "user@example.com"
-    name = "Your Name"
+    email = "jaigansa@gmail.com"
+    name = "Jai Ganesh"
   [params.socialIcons]
-    facebook = "https://www.facebook.com/"
-    instagram = "https://www.instagram.com/"
-    github = "https://github.com/nicokaiser/hugo-theme-gallery/"
-    youtube = "https://www.youtube.com/"
-    email = "mailto:user@example.com"
-    #website = "https://example.com"
-    #mastodon = "https://example.com"
-    #pixelfed = "https://example.com"
-    #mixcloud = "https://mixcloud.com"
+    facebook = "https://www.facebook.com/srijaiganeshindustry"
+    instagram = "https://www.instagram.com/jaigansa"
+    youtube = "https://www.youtube.com/@jsrindustries"
+    email = "mailto:jaisriramtruckshop@gmail.com"
   [params.gallery]
     #boxSpacing = 10
     #targetRowHeight = 288
@@ -47,10 +42,13 @@ theme = 'gallery'
 
 [menu]
   [[menu.footer]]
-    name = "GitHub"
-    url = "https://github.com/jaigansa"
+    name = "Map"
+    url = "https://google.com"
     weight = 3
 
 [services]
   [services.rss]
     limit = 100
+
+[related]
+  includeNewer = false
