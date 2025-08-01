@@ -1,8 +1,9 @@
 ---
-description: Trucks Body albums.
-keywords: [trucks, body]
-title: Trucks
+title: BluePrints
+description: Blueprints for Models.
+keywords: [blueprints]
 weight: 1
+
 resources:
   - src: feature.jpg
     params:
