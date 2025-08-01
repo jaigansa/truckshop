@@ -1,14 +1,8 @@
 ---
-description: Making parts work showcase
-menus: "main"
 title: 3D Models
+description: Making parts showcase
 categories: ["3d-models"]
-weight: 4
-params:
-  featured_image: feature.jpg
-  theme: dark
-  sort_order: desc
-  sort_by: Name # Exif.Date
+weight: 4 
 resources:
   - src: feature.jpg
     params:
