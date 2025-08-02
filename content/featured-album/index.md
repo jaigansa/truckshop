@@ -1,9 +1,15 @@
 ---
 date: 2025-01-01
 title: Featured Album
+description: This is a featured album.
+layout: prose
 params:
-  featured: true
-  private: true # do not show in list, only as feature
-description: This is a featured album. It is private, so it is only shown on the homepage.
+    featured: true
 ---
+{{< youtube id=g14oWYmg8Ok  autoplay=true control=false  >}}
+
+---------------------
+
 {{< video "/truckshop/videos/tata-intra.mp4" >}}
+
+
