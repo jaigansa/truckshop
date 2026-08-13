@@ -1,6 +1,6 @@
 ---
 date: 2025-01-01
-title: Echier Carrier
+title: Eicher Carrier
 sort_by: Name
 categories: ["projects", "models"]
 params:

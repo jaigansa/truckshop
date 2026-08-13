@@ -4,5 +4,5 @@ title: Crown Carrier
 sort_by: Name
 categories: ["projects", "carrier"]
 params:
-  featured_image: CC_2.jpg
+  featured_image: cc_2.jpg
 ---
