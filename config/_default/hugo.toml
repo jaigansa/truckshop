@@ -3,11 +3,10 @@ copyright = "© Truckshop"
 defaultContentLanguage = "en"
 disableKinds = ["taxonomy"]
 enableRobotsTXT = true
-languageCode = "en"
+locale = "en"
 timeZone = "Asia/Kolkata"
 timeout = "120s"
 title = "TruckShop"
-theme = 'gallery'
 
 [params]
   defaultTheme = "dark"
